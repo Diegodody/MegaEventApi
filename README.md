@@ -63,3 +63,14 @@ cd MegaEventAPI
 
 # Construa e inicie os containers com Docker
 docker-compose up --build
+
+
+## 📖 Autores
+
+[@Alesson Calaça](https://github.com/ale-calassa) - 101378540 - Desenvolvedor Front-End
+
+[@Diego Lima](https://github.com/Diegodody) - 01401412 - Documentador
+
+[@Luiz Pereira](https://github.com/Luiz-Pereira-Lucena) - 01170935 - Desenvolvedor Back-End
+
+[@Gilvanelson Nascimento](https://github.com/Gilvanelson) - 01395387 - Scrum Master
