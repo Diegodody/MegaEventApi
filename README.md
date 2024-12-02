@@ -2,7 +2,7 @@
 
 ## 📖 Descrição do Projeto
 A **API para Organização de Eventos** foi desenvolvida para facilitar o gerenciamento de eventos. Com ela, os usuários podem:
-- Inscrever-se em eventos.
+c Inscrever-se em eventos.
 - Visualizar detalhes completos dos eventos.
 - Receber notificações sobre atividades relacionadas.
 
@@ -12,13 +12,13 @@ Metolodogia Kanban: https://trello.com/invite/b/674b165e7aecbe81fc6bce03/ATTI778
 
 ## 📖 Autores
 
-Alesson Calaça [@alessoncalassa](https://github.com/ale-calassa) - 01378540 - Desenvolvedor Front-End
+- Alesson Calaça [@alessoncalassa](https://github.com/ale-calassa) - 01378540 - Desenvolvedor Front-End
 
-Diego Lima [@Diegodody](https://github.com/Diegodody) - 01401412 - Documentador
+- Diego Lima [@Diegodody](https://github.com/Diegodody) - 01401412 - Documentador
 
-Luiz Pereira [@Luiz-Pereira](https://github.com/Luiz-Pereira-Lucena) - 01170935 - Desenvolvedor Back-End
+- Luiz Pereira [@Luiz-Pereira](https://github.com/Luiz-Pereira-Lucena) - 01170935 - Desenvolvedor Back-End
 
-Gilvanelson Nascimento [@Gilvanelson](https://github.com/Gilvanelson) - 01395387 - Scrum Master
+- Gilvanelson Nascimento [@Gilvanelson](https://github.com/Gilvanelson) - 01395387 - Scrum Master
 
 ---
 
