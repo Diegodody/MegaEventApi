@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luizp\\source\\Repos\\OrganizationOfCompanies.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{032BF866-9A2D-4705-8D82-90C57D7CC208}|OrganizationOfCompanies.API\\OrganizationOfCompanies.API.csproj|c:\\users\\luizp\\source\\repos\\organizationofcompanies.api\\organizationofcompanies.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{032BF866-9A2D-4705-8D82-90C57D7CC208}|OrganizationOfCompanies.API\\OrganizationOfCompanies.API.csproj|solutionrelative:organizationofcompanies.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032BF866-9A2D-4705-8D82-90C57D7CC208}|OrganizationOfCompanies.API\\OrganizationOfCompanies.API.csproj|c:\\users\\luizp\\source\\repos\\organizationofcompanies.api\\organizationofcompanies.api\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{032BF866-9A2D-4705-8D82-90C57D7CC208}|OrganizationOfCompanies.API\\OrganizationOfCompanies.API.csproj|solutionrelative:organizationofcompanies.api\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032BF866-9A2D-4705-8D82-90C57D7CC208}|OrganizationOfCompanies.API\\OrganizationOfCompanies.API.csproj|c:\\users\\luizp\\source\\repos\\organizationofcompanies.api\\organizationofcompanies.api\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{032BF866-9A2D-4705-8D82-90C57D7CC208}|OrganizationOfCompanies.API\\OrganizationOfCompanies.API.csproj|solutionrelative:organizationofcompanies.api\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032BF866-9A2D-4705-8D82-90C57D7CC208}|OrganizationOfCompanies.API\\OrganizationOfCompanies.API.csproj|c:\\users\\luizp\\source\\repos\\organizationofcompanies.api\\organizationofcompanies.api\\models\\typeeventviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{032BF866-9A2D-4705-8D82-90C57D7CC208}|OrganizationOfCompanies.API\\OrganizationOfCompanies.API.csproj|solutionrelative:organizationofcompanies.api\\models\\typeeventviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032BF866-9A2D-4705-8D82-90C57D7CC208}|OrganizationOfCompanies.API\\OrganizationOfCompanies.API.csproj|c:\\users\\luizp\\source\\repos\\organizationofcompanies.api\\organizationofcompanies.api\\models\\historyofparticipationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{032BF866-9A2D-4705-8D82-90C57D7CC208}|OrganizationOfCompanies.API\\OrganizationOfCompanies.API.csproj|solutionrelative:organizationofcompanies.api\\models\\historyofparticipationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032BF866-9A2D-4705-8D82-90C57D7CC208}|OrganizationOfCompanies.API\\OrganizationOfCompanies.API.csproj|c:\\users\\luizp\\source\\repos\\organizationofcompanies.api\\organizationofcompanies.api\\models\\eventviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{032BF866-9A2D-4705-8D82-90C57D7CC208}|OrganizationOfCompanies.API\\OrganizationOfCompanies.API.csproj|solutionrelative:organizationofcompanies.api\\models\\eventviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\luizp\\source\\Repos\\OrganizationOfCompanies.API\\OrganizationOfCompanies.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "OrganizationOfCompanies.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\luizp\\source\\Repos\\OrganizationOfCompanies.API\\OrganizationOfCompanies.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "OrganizationOfCompanies.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAtwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T22:00:34.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\luizp\\source\\Repos\\OrganizationOfCompanies.API\\OrganizationOfCompanies.API\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "OrganizationOfCompanies.API\\Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\luizp\\source\\Repos\\OrganizationOfCompanies.API\\OrganizationOfCompanies.API\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "OrganizationOfCompanies.API\\Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswEQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:14:18.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\luizp\\source\\Repos\\OrganizationOfCompanies.API\\OrganizationOfCompanies.API\\Models\\EventViewModel.cs",
+              "RelativeDocumentMoniker": "OrganizationOfCompanies.API\\Models\\EventViewModel.cs",
+              "ToolTip": "C:\\Users\\luizp\\source\\Repos\\OrganizationOfCompanies.API\\OrganizationOfCompanies.API\\Models\\EventViewModel.cs",
+              "RelativeToolTip": "OrganizationOfCompanies.API\\Models\\EventViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:13:44.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HistoryOfParticipationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\luizp\\source\\Repos\\OrganizationOfCompanies.API\\OrganizationOfCompanies.API\\Models\\HistoryOfParticipationViewModel.cs",
+              "RelativeDocumentMoniker": "OrganizationOfCompanies.API\\Models\\HistoryOfParticipationViewModel.cs",
+              "ToolTip": "C:\\Users\\luizp\\source\\Repos\\OrganizationOfCompanies.API\\OrganizationOfCompanies.API\\Models\\HistoryOfParticipationViewModel.cs",
+              "RelativeToolTip": "OrganizationOfCompanies.API\\Models\\HistoryOfParticipationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:12:32.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TypeEventViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\luizp\\source\\Repos\\OrganizationOfCompanies.API\\OrganizationOfCompanies.API\\Models\\TypeEventViewModel.cs",
+              "RelativeDocumentMoniker": "OrganizationOfCompanies.API\\Models\\TypeEventViewModel.cs",
+              "ToolTip": "C:\\Users\\luizp\\source\\Repos\\OrganizationOfCompanies.API\\OrganizationOfCompanies.API\\Models\\TypeEventViewModel.cs",
+              "RelativeToolTip": "OrganizationOfCompanies.API\\Models\\TypeEventViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:12:24.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\luizp\\source\\Repos\\OrganizationOfCompanies.API\\OrganizationOfCompanies.API\\Models\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "OrganizationOfCompanies.API\\Models\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\luizp\\source\\Repos\\OrganizationOfCompanies.API\\OrganizationOfCompanies.API\\Models\\UserViewModel.cs",
+              "RelativeToolTip": "OrganizationOfCompanies.API\\Models\\UserViewModel.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:11:56.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 515,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
