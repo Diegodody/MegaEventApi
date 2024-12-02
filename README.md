@@ -10,6 +10,16 @@ A API e sua interface web são **conteinerizadas**, garantindo uma implantação
 
 Metolodogia Kanban: https://trello.com/invite/b/674b165e7aecbe81fc6bce03/ATTI778e155a14a9f789375504141c5c2b84E541F389/api-de-gestao-de-eventos-e-inscricoes
 
+## 📖 Autores
+
+[@alessoncalassa](https://github.com/ale-calassa) - 101378540 - Desenvolvedor Front-End
+
+[@Diegodody](https://github.com/Diegodody) - 01401412 - Documentador
+
+[@Luiz-Pereira](https://github.com/Luiz-Pereira-Lucena) - 01170935 - Desenvolvedor Back-End
+
+[@Gilvanelson](https://github.com/Gilvanelson) - 01395387 - Scrum Master
+
 ---
 
 ## 🚀 Funcionalidades Principais
@@ -65,12 +75,3 @@ cd MegaEventAPI
 docker-compose up --build
 
 
-## 📖 Autores
-
-[@Alesson Calaça](https://github.com/ale-calassa) - 101378540 - Desenvolvedor Front-End
-
-[@Diego Lima](https://github.com/Diegodody) - 01401412 - Documentador
-
-[@Luiz Pereira](https://github.com/Luiz-Pereira-Lucena) - 01170935 - Desenvolvedor Back-End
-
-[@Gilvanelson Nascimento](https://github.com/Gilvanelson) - 01395387 - Scrum Master
