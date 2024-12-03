@@ -28,18 +28,18 @@ Metolodogia Kanban: https://trello.com/invite/b/674b165e7aecbe81fc6bce03/ATTI778
 - Docker : Containerizar a API 
 - NuGet : Gerenciamento de pacotes da API
 
-# Framework
+### Framework
 - Microsoft.EntityFrameworkCore.Disign
 - NpgSql.EntityFrameworkCore.PostgreSQL
 
-# Bibliotecas / Pacotes
+### Bibliotecas / Pacotes
 - Microsoft.AspNetCore.Authentication.JwtBearer
 - Microsoft.IdentityModel.Tokens
 - Swasbuckle.AspNetCore.SwaggerGen
 - Swasbuckle. AspNetCore.SwaggerGenUI
 - System.IdentityModel.Tokens.Jwt
 
-# Dispositivos
+### Dispositivos
 - 5 Notebooks
 
   ---
