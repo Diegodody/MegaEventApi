@@ -26,7 +26,7 @@ Metolodogia Kanban: https://trello.com/invite/b/674b165e7aecbe81fc6bce03/ATTI778
 
 ## ⚙️ Definições de ferramentas 
 
- ### IDE (Ambiente de Desenvolvimento)
+ ### Softwares
 - Visual Studio (IDE)
 - Docker : Containerizar a API 
 - NuGet : Gerenciamento de pacotes da API
