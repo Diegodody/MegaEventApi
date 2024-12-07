@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎉 API para Organização de Eventos
 
 ## 📖 Descrição do Projeto
