@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎉 API para Organização de Eventos
 
 ## 📖 Descrição do Projeto
@@ -116,3 +117,6 @@ cd MegaEventAPI
 docker-compose up --build
 
 
+=======
+# MegaEventApi
+>>>>>>> a6f657e6fa22f80aa215a4ea706dae7b1f23beb2
